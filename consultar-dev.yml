@@ -1,9 +1,9 @@
 application:
   status: activated
   consultar:
-    sufcodigoproduccto: PR
-    sufCodigoCliente: C
+    prefijcodigoproduccto: PR
+    prefijCodigoCliente: C
   registrar:
     codigoRepuesta: 0000
     mensajeRepuesta: Procesos Exitoso
-    preFijoReclamo: Codigo Reclamo es
+    preFijReclamo: Codigo Reclamo es
