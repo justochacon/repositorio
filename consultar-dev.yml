@@ -1,7 +1,7 @@
 application:
   status: active
   consultar:
-    prefijcodigoProducto: PR
+    prefijcodigoProducto: PRO
     prefijCodigoCliente: C
   registrar:
     codigoRepuesta: 0000
