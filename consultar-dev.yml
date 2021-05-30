@@ -1,5 +1,5 @@
 application:
-  status: activated
+  status: active
   consultar:
     prefijcodigoproduccto: PR
     prefijCodigoCliente: C
