@@ -6,4 +6,4 @@ application:
   registrar:
     codigoRepuesta: 0000
     mensajeRepuesta: Procesos Exitoso
-    preFijoReclamo: Codigo Reclamo es:
+    preFijoReclamo: Codigo Reclamo es
